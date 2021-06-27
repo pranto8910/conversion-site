@@ -1,0 +1,1 @@
+{"Catagory":"Dollar to Taka","Unit":"1","Rate":"85.50"}
